@@ -17,8 +17,8 @@ title: Мова Эсперанта
 email: beloarscience@fias.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Мова міжнародных зносінаў у выкладанні беларускага эсперантыста А.А.Паўлюкаўца
-baseurl: "/esperanto" # the subpath of your site, e.g. /blog
-url: "https://bel.oar.science" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bel.oar.science/esperanto/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username:
 github_username:
