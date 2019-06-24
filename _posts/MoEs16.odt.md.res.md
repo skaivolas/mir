@@ -1,0 +1,91 @@
+---
+layout: post
+title: "987987987"
+author: "Адам Паўлюкавец"
+---
+
+
+## 16. Пераходныя і непераходныя дзеясловы
+
+16.1. Пераходныя дзеясловы патрабуюць прамога дапаўнення, якое
+перадаецца словам у вінавальным склоне: *Nikolao legas revuon
+kaj mi legas ĵurnalon. *— *Мікола чытае часопіс, а я чытаю газету.*
+
+16.2. Непераходныя дзеясловы патрабуюць ускоснага дапаўнення: *Mi
+veturas per aŭtobuso. *— Я *еду на аўтобусе.*
+
+16.3. Большасць дзеясловаў бываюць або пераходнымі або непераходнымі,
+але ёсць таксама і дзеясловы, якія адначасова могуць быць і
+пераходнымі і непераходнымі. Ніжэй пададзеныя дзеясловы
+найбольш ужывальныя з іх:
+
+***adia****ŭ****i: **Mi adiaŭas la patrinon. Mi adiaŭas al la patrino*.
+— Я *развітваюся з маці;*
+
+***aplaŭdi: **Ĉiuj aplaŭdas la preleganton. Ĉiuj aplaŭdas al la
+preleganto*. — *Усе апладзіруюць прамоўцу;*
+
+***danki: **Mi dankas vin! Mi dankas al vi.* — Я *дзякую вам;*
+
+**helpi: **Mi volas helpi vin. Mi volas helpi al vi. — Я хачу дапамагчы
+вам;
+
+***ĉ****eesti: **Vi devas ĉeesti la konferencon. Vi devas ĉeesti en la
+konferenco*. — *Вы павінны прысутнічаць на канферэнцыі;*
+
+***kredi****: **Vi povas kredi min. Vi povas kredi al mi*. — *Вы можаце
+верыць мне;*
+
+***partopreni: **Mi volonte partoprenos la vesperon. Mi volonte
+partoprenos en la vespero*. — *Я ахвотна буду ўдзельнічаць у вечары;*
+
+**respondi: **Hodiaŭ mi respondas vian leteron. Hodiaŭ mi respondas al
+via letero. — Сёння я адказваю на ваша пісьмо;
+
+***simili: **Via filo similas vin. Via filo similas al vi*. — *Ваш сын
+падобны на вас;*
+
+***suferi: **Li suferas strangan malsanon. Li suferas pro stranga
+malsano*. — *Ён пакутуе ад дзіўнай хваробы.*
+
+16.4. Некаторыя дзеясловы могуць быць непераходнымі ў беларускай мове,
+але пераходнымі ў эсперанта:
+
+***admiri: **Mi admiras vian laboremon*. — *Я захапляюся вашай
+працавітасцю;*
+
+***ĉ****asi: **Ĉasi lupojn estas danĝere*. — *Паляваць на ваўкоў
+небяспечна;*
+
+***gvidi: **Nikolao gvidas la rondeton de komencantaj geesperantistoj*.
+— *Мікола кіруе гуртком пачынаючых эсперантыстаў;*
+
+***ĝui: **Viktoro ĝuas la legadon de la nova romano*. — *Віктар цешыцца
+чытаннем новага рамана;*
+
+***inter****ŝ****an****ĝ****i: **Ni povas interŝanĝi poŝtkartojn kaj
+poŝtmarkojn*. — *Мы можам абменьвацца паштоўкамі і маркамі;*
+
+**invadi: **Malamika armeo invadis nian landon. — Варожая армія
+ўварвалася ў нашу краіну;
+
+***koncerni: **Ĉi tio ne koncernas la aferon*. — *Гэта справы не
+датычыцца;*
+
+***kosti: **Ĉi tio povas kosti vivon al vi*. — *Гэта можа каштаваць вам
+жыцця;*
+
+***pafi: **Ĉasisto pafis lupon*. — *Паляўнічы стрэліў у ваўка; *
+
+***posedi: **Por bone ekposedi la lingvon Esperanto, oni devas ĝin lerni
+ĉiutage*. — *Каб добра авалодаць мовай эсперанта, трэба яе вучыць
+штодзённа;*
+
+***regi: **Vi devas regi viajn sentojn*. — *Вы павінны валодаць сваімі
+пачуццямі;*
+
+***rifuzi: **Mi devas rifuzi vian proponon*. — *Я павінен адмовіцца ад
+вашай прапановы;*
+
+**timi: **Mi timas ĉi tiun malfacilan vojaĝon. — Я баюся гэтага цяжкага
+падарожжа.

@@ -1,0 +1,73 @@
+---
+layout: post
+title: "987987987"
+author: "Адам Паўлюкавец"
+---
+
+
+## 22. Злучнікі
+
+22.1. ***Kaj***** **— *і, а, ды: Nikolao kaj Viktoro lernas en la sama
+instituto*. — *Мікола і Віктар вучацца ў адным інстытуце. Nikolao volas
+esti instruisto kaj mi volas esti interpretisto*. — *Школа хоча быць
+настаўнікам, а я* — *перакладчыкам. Saŭĉjo kaj Griĉjo faris la
+blovtubon*. — *Саўка ды Грышка ладзілі дуду.*
+
+22.2.*** ****Sed***** **— *але, а, ды: Mi petis vin veni al mi, sed vi
+ne venis*. — *Я прасіў цябе прыйсці да мяне, але ты не прыйшоў. Via
+patro petis cin fari tion, sed vi faris nenion*. — *Твой бацька прасіў
+цябе зрабіць гэта, а ты нічога не зрабіў. Ni volis viziti vin, sed mi
+ne havis liberan tempon. *— *Я хацеў наведаць цябе, ды не меў вольнага
+часу.*
+
+22.3. Aŭ — ці, або, альбо: Ni iros promeni aŭ ni restos hejme? — Мы
+пойдзем прагуляцца ці застанемся дома? Mi venos al vi sabate aŭ
+dimanĉe. — Я прыйду да цябе ў суботу ці (або) у нядзелю. Mi havas neniom
+da libera tempo, tiun ĉi laboron faru Nikolao aŭ Viktoro. — У мяне зусім
+няма вольнага часу, таму гэту работу хай зробяць Мікола ці (або) Віктар.
+
+22.4. Se — калі, калі б, каб: Se vi volas, ni povas viziti Viĉjon. —
+Калі хочаш, мы можам зайсці да Віці. Mi volonte tralegus tiun ĉi
+libron, se vi ĝin al mi pruntedonus. — Я б ахвотна прачытаў гэтую кнігу,
+каб (калі б) ты мне яе пазычыў.
+
+22.5. **Ĉar **— бо, таму што: Mi ne aĉetas ĉi tiun libron, ĉar mi ĝin
+simple ne bezonas. — Я не купляю гэтую кнігу, бо (таму што) яна мне
+проста не патрэбна.
+
+22.6. Ja — ж, жа: Konduku nin, vi ja konas la vojon. — Вядзі нас, ты ж
+ведаеш дарогу. Nikolao konduku vin, li ja pli bone konas la vojon. —
+Хай Мікола вас вядзе, ён жа лепей знае дарогу.
+
+22.7. Kvankam — хоць, хаця: Mi aĉetis ĉi tiun libron, kvankam mi ne tre
+bezonas ĝin. — Я купіў гэтую кнігу, хоць яна мне і не вельмі патрэбна.
+
+22.8. Tamen — аднак: Kvankam mi kompatas al vi, tamen mi povas al vi
+helpi per nenio. — Хоць я і спачуваю табе, аднак нічым дапамагчы табе не
+магу.
+
+22.9. Kvazaŭ — быццам, як быццам, нібы, нібыта: Vi rakontas tiel, kvazaŭ
+vi mem tie estus. — Ты расказваеш так, быццам (нібы) сам там быў.
+
+22.10. Do — дык жа, дык вось, такім чынам: Do vi komencu! — Дык
+пачынай! Venu do! — Дык прыйдзі ж! Kion do vi volus legi? —
+Дык што б ты хацеў пачытаць?
+
+22.11. Ankaŭ — таксама: Mi ankaŭ, dezirus aĉeti ĉi tiun libron, sed mi
+ne havas monon. — Я таксама хацеў бы купіць гэтую кніжку, але ў мяне
+няма грошай.
+
+22.12. Nek... nek... — ні... ні...: Mi aĉetis nek viandon, nek buteron.
+— Я не купіў ні мяса, ні масла.
+
+Заўвага: У эсперанта дапускаецца толькі ўжыванне аднаго адмоўнага слова
+(гл. Правіла 11.7).
+
+22.13. Aŭ... aŭ... — ці... ці..., або... або...: Aŭ via patro aŭ via
+patrino nepre venu en la lernejon! — Ці бацька, ці маці хай абавязкова
+прыйдзе ў школу! (Або бацька, або маці хай абавязкова прыйдзе ў
+школу!)
+
+22.14. Ĉu... ĉu... — ці... ці...: Ĉu via patro, ĉu via patrino nepre
+venu en la lernejon! — Ці бацька, ці маці хай абавязкова прыйдзе ў
+школу!

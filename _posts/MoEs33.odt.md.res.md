@@ -1,0 +1,876 @@
+---
+layout: post
+title: "987987987"
+author: "Адам Паўлюкавец"
+---
+
+
+## Б. ВУЧЭБНЫЯ ТЭКСТЫ
+
+*1*. *Mi lernas Esperanton*
+
+Mi estas Viktoro Ivanoviĉ Volski. Viktoro estas mia voknomo (antaŭnomo),
+Ivanoviĉ estas mia patronomo kaj Volski estas mia familia nomo
+(familinomo). Mi lernas Esperanton. Mi lernas la internacian lingvon en
+la rondeto, kiun organizis esperantista klubo ĉe la urba kulturpalaco.
+
+Nun mi staras apud la kulturpalaco kaj atendas mian amikon Nikolao. Li
+venis kun sia amikino Vera. Mi salutas mian amikon Nikolao kaj lian
+amikinon Vera. Kaj ni kune iras en la kulturpalacon. Hodiaŭ estas nia
+dua leciono.
+
+Kaj jen ni sidas ĉe la tabloj en la granda ĉambro kaj atendas. En la
+ĉambron eniras Sergej Petroviĉ.
+
+— Bonan vesperon! — li diras.
+
+— Bonan vesperon! — ni respondas.
+
+Sergej Petroviĉ komencas la lecionon. Li instruas al ni Esperanton. Li
+eksplikas la gramatikajn regulojn kaj skribas novajn vortojn sur la
+tabulo. Ni kopias la novajn vortojn en niajn kajerojn. Poste ni faras
+ekzercojn. Ni prenas ekzemple la substantivon «amiko», ŝanĝas en ĝi la
+finan literon «o» je «a»  kaj ricevas la adjektivon «amika». Aŭ ni
+prenas la verbon «kanti», ŝanĝas en ĝi la finan literon «i» je «o» kaj
+ricevas la substantivon «kanto». Se ni prenos la substantivon «vespero»
+kaj ŝanĝos en ĝi la finan literon «o» je «e», ni ricevos adverbon
+«vespere». Por formi novajn vortojn ni uzas ankaŭ prefiksojn kaj
+sufiksojn. Ni prenas la vorton «granda» kaj prefikson «mal-» kaj formas
+la novan vorton «malgranda». Aŭ ni prenas la vorton «studento» kaj la
+sufikson «-in-» kaj formas la novan vorton «studentino». Poste ni prenas
+la vorton «lerni» kaj la vorton «ĉambro» kaj kunmetas el ili la novan
+vorton «lernoĉambro». En la fino de la leciono ni legas la tekston kaj
+tradukas ĝin. Sergej Petroviĉ proponas al ni respondi liajn demandojn:
+
+— Ĉu vi volonte lernas Esperanton?
+
+— Ĉu vi diligente lernas Esperanton?
+
+— Ĉu Esperanto estas facila lingvo?
+
+Kaj ni respondas al Sergej Petroviĉ:
+
+— Esperanto estas tre facila kaj bela lingvo, sed dum la lecionoj ne
+estas facile. Dum la lecionoj estas eĉ tre malfacile. Estas necese
+memorfiksi multajn novajn vortojn kaj gramatikajn regulojn. Tamen ni
+diligente lernos, ĉar ni volas baldaŭ bone paroli en Esperanto.
+
+2. La jaro
+
+Ĉiu jaro konsistas el dekdu monatoj. Ĉiu monato havas sian propran
+nomon. La nomoj de la monatoj estas: januaro, februaro, marto, aprilo,
+majo, junio, julio, aŭgusto, septembro, oktobro, novembro, decembro. La
+monatoj januaro, marto, majo, julio, aŭgusto, oktobro kaj decembro havas
+po tridek unu tagoj. La monatoj aprilo, junio, septembro kaj novembro
+havas po tridek tagoj. Kaj la februaro estas la plej mallonga monato de
+la jaro: ĝi kutime havas po dudek ok tagoj. Sed en superjaro ĝi estas je
+unu tago pli longa kaj havas dudek naŭ tagojn.
+
+Krome, ĉiu jaro konsistas el kvindek du semajnoj, kaj ĉiu semajno
+konsistas el sep tagoj. Ĉiu tago havas ankaŭ sian propran nomon. La
+nomoj de la semajnotagoj estas: lundo, mardo, merkredo, ĵaŭdo, vendredo,
+sabato kaj dimanĉo. Kutime lundo, mardo, merkredo, ĵaŭdo kaj vendredo
+estas labortagoj, sed sabato kaj dimanĉo estas kutime ripoztagoj.
+
+3. La tagnokto (diurno)
+
+Mateno, tago, vespero kaj nokto formas la tagnokton (diurnon). Oni
+dividas la tagnokton, kiun oni kromnomas diurno, je dudek kvar horoj,
+ĉiun horon — je sesdek minutoj kaj ĉiun minuton — je sesdek sekundoj.
+Je la dekdua horo nokte estas meznokto aŭ noktomezo. Je la dekdua horo
+tage estas tagmezo aŭ meztago.
+
+Por scii la precizan tempon ĉiu el ni havas la propran horloĝon.
+Ekzistas diversaj specoj de horloĝoj: brakhorloĝoj, poŝhorloĝoj,
+vekhorloĝoj, murhorloĝoj ktp (kaj tiel plu).
+
+Tiu, kiu ne havas propran horloĝon, kutime devas demandi aliajn:
+
+— Kioma horo estas? aŭ tute simple: kiomas?
+
+Kaj oni respondas al li aŭ al ŝi:
+
+— Estas precize la dua.
+
+— Estas la dua kaj duono.
+
+— Estas kvarono antaŭ la tria.
+
+— Estas kvarono post la tria.
+
+— Estas dudek minutoj antaŭ la kvara.
+
+— Estas dudek kvin minutoj post la kvara.
+
+— Estas la kvina kaj tridek kvin minutoj.
+
+Okazas ankaŭ, ke oni forgesas, kiu dato aŭ tago estas hodiaŭ. Tiam oni
+demandas:
+
+— Kiun daton ni havas hodiaŭ? Aŭ: kiu dato estas hodiaŭ?
+
+Kaj oni respondas:
+
+— Hodiaŭ ni havas la dekokan de septembro.
+
+Kiam oni demandas:
+
+— Kiu tago estas hodiaŭ, ĉu estas mardo hodiaŭ?
+
+Oni respondas:
+
+— Jes, hodiaŭ estas mardo.
+
+— Ne, hodiaŭ estas merkredo.
+
+4. Ni korespondas en Esperanto
+
+Hodiaŭ mi estas tre ĝoja. Mi estas ricevinta la leteron el Bulgario.
+Nekonata al mi bulgara amikino estis skribinta al mi. Jen estas ŝia
+letero:
+
+Sofio, la 5-an de septembro.
+
+Kara belarusa amiko!
+
+Vi ne konas min kaj scias pri mi nenion. Ankaŭ mi scias pri vi preskaŭ
+nenion. Simple mi trovis vian adreson en la revuo «Bulgara
+esperantisto», en la rubriko «Korespondi deziras» kaj decidis skribi al
+vi.
+
+Mi dezirus korespondi kun vi kaj esperas, ke nia korespondado estos
+interesa por ni ambaŭ kaj ke ĝi daŭros longe.
+
+Kara amiko! Bonvolu skribi al mi, pri kio vi interesiĝas kaj kion vi
+kolektas. Mi mem interesiĝas pri moderna muziko. Mi ankaŭ ŝatas kanti
+modernajn kaj malnovajn popolajn kantojn. Ankaŭ multaj vialandaj kantoj
+estas bone konataj al mi.
+
+Bonvolu respondi baldaŭ.
+
+Via nova bulgara amikino Nonka.
+
+Mi sidiĝas apud la tablo kaj estas skribonta la respondon. Mi prenas
+puran folieton da papero kaj komencas pensi: kion mi skribu al Nonka? Nu
+bone; mia unua letero al Nonka ne estu longa. Kaj mi komencas skribi:
+
+Minsk, la 2-an de oktobro.
+
+Kara bulgara amikino Nonka!
+
+Mi kore dankas vin pro via letero el la 5-a de septembro, kiun mi ĵus
+estas ricevinta. Nun mi estas sidanta ĉe la tablo kaj respondanta al vi.
+
+Via letero vere ĝojigis min. Mi volonte korespondos kun vi. Mi ankaŭ
+volonte korespondus kun geesperantistoj el aliaj landoj, sed dume mi ne
+havas adresojn.
+
+Vi demandas min, pri kio mi interesiĝas kaj kion mi kolektas. Jes, mi
+ankaŭ interesiĝas pri moderna muziko. Kaj ankaŭ pri sporto. Mi ankaŭ
+ŝatas belarusajn popolajn kantojn. Ankoraŭ mi interesiĝas pri
+Esperanto-movado en diversaj landoj, pri Esperanto-literaturo kaj pri
+historio de Esperanto. Mi kolektas malnovajn Esperanto-revuojn,
+magazinojn, bultenojn, gazetojn kaj ĵurnalojn. Malgraŭ mi ankoraŭ estas
+komencanto, mi jam havas tutan stokon da diversaj periodaĵoj en
+Esperanto aŭ pri Esperanto.
+
+Atendante vian baldaŭan respondon, mi kore deziras al vi ĉion la plej
+bonan.
+
+Sincere kaj amike Viktoro.
+
+5. Esperanta festotago
+
+En la jaro 1927 Julio Baghy (legu: badj´), hungara esperantista poeto
+kaj klasikulo, proponis, ke en la naskiĝtago de Ludoviko Zamenhof, la
+15-an de decembro, ĉiujare estu festata la tago de Esperanto-libro. La
+Universala Kongreso de Esperanto, okazinta la saman jaron en Danzig,
+unuanime aprobis la proponon de Julio Baghy. Kaj jam en la jaro 1927
+estis aranĝitaj multaj libro festoj en esperantistaj kluboj en la plej
+diversaj lokoj de la tuta mondo. Post tiam pasis jardekoj, sed kiel
+antaŭe esperantistaj kluboj, restante fidelaj al siaj tradicioj,
+ĉiujare aranĝas en la unua duono de decembro imponajn festojn de
+Esperanto-movado.
+
+Ankaŭ ĉi-jare en nia esperantista klubo estas preparata solena vespero.
+Unu kamarado preparas prelegon pri atingoj de Esperanto-movado dum
+lastaj jaroj, alia kamarado preparas raporton pri la agado de nia
+esperantista klubo dum la lasta jaro. Kaj ĉiuj ni kune preparas la
+amatoran artan programon por la solena vespero. Ekzemple, Nikolao
+preparas sin elpaŝi kun deklamado de fabloj kaj poemoj. Mia amiko Sergeo
+preparas sin danci iun eksterlandan dancon. Lia amikino Nina preparas
+sin kanti belarusajn popolajn kantojn, tradukitajn en Esperanton.
+
+Dum la vespero ĉeestos ankaŭ neesperantista publiko kaj tial ni preparas
+nin serioze kaj fundamente.
+
+6. La jarsezonoj
+
+La printempo. Ĉiu jaro havas 4 jarsezonojn. La jarsezonoj nomiĝas:
+printempo, somero, aŭtuno kaj vintro.
+
+La plej bela sezono de la jaro estas certe la printempo. En poezio por
+nomi ĝin ekzistas eĉ aparta pli belsona vorto: primavero.
+
+Printempe la naturo vekiĝas post la vintro. En marto kaj aprilo la neĝo
+degelas. Kaj poste aperas la nova herbo kaj la unuaj printempaj floroj —
+galantoj. Sur la arboj kaj arbustoj aperas la unuaj verdaj folietoj. En
+la ĉielo brilas la suno.
+
+Printempe birdoj revenas de sudaj landoj kaj la arbaro pleniĝas per
+iliaj triloj. La vetero plivarmigas de tago al tago.
+
+En majo okazas la unua fulmotondro. Komence la ĉielo kovriĝas per pezaj
+obskuraj nuboj, poste fulmas kaj tondras kaj fine komencas pluvi.
+
+Printempe vilaĝanoj havas multe da laboro en kampoj kaj ĝardenoj. Ili
+semas cerealojn kaj plantas legomojn. En kamparo tage kaj nokte laboras
+traktoroj.
+
+La somero. Post la printempo venas la somero kun seka vetero kaj
+varmego. Sed tamen ankaŭ somere de tempo al tempo pluvas. Fulmotondro
+ofte antaŭas la someran pluvon. Sed ankaŭ povas okazi, ke post la
+fulmotondro ne pluvas, sed hajlas. Kaj la hajlo somere estas la plej
+maldezirata de vilaĝanoj fenomeno de la naturo.
+
+La urbanoj ŝatas ripozi somere ekster la urbo, ĉe la bordo de rivero aŭ
+de maro, kie ili metas siajn tendojn. Multaj urbanoj ŝatas ripozi dum
+sia forpermeso ie ajn en la sudo de nia lando.
+
+Sed la vilaĝanoj neniam havas dum somero forpermeson, ĉar ili somere
+havas plenplenajn manojn da laboro en kampoj kaj en propraj
+legomĝardenoj.
+
+En julio kaj aŭgusto lernejanoj kaj studentoj havas somerajn feriojn.
+Multaj lernantoj dum someraj ferioj havas eblecon ripozi en
+pionirtendaroj. Aliaj helpas al siaj gepatroj en kampoj kaj
+legomĝardenoj, se temas pri vilaĝaj lernantoj, kaj urbaj lernantoj
+pasigas siajn somerajn feriojn diversmaniere. Unuj restas hejme, aliaj
+frekventas urbajn pionirtendarojn ĉe la lernejoj, kie ili lernas, la
+triaj veturas al siaj geavoj en vilaĝojn, la kvaraj ripozas en la
+vilaĝdomoj de siaj gepatroj.
+
+Studentoj pasigas siajn somerajn feriojn ankaŭ diversmaniere: unuj
+preferas turismajn ekskursojn tra la lando, aliaj preferas labori en
+studentaj laborbrigadoj, la triaj serĉas por la ferioj ian laboron por
+perlabori por siaj bezonoj ian sumon da mono.
+
+L a aŭtuno. La 1-an de septembro la lernantoj komencas lerni en siaj
+lernejoj kaj la studentoj komencas studi en siaj universitatoj,
+institutoj, teknikumoj, profesiaj lernejoj ktp (kaj tiel plu). La 1-an
+de septembro, tiu dato kvazaŭ oficiale substrekas: hodiaŭ komenciĝis
+aŭtuno!
+
+En aŭtuno la tagoj iĝas pli mallongaj kaj la noktoj pli longaj. Sed
+kamparanoj havas ankoraŭ pli da laboro en kampoj kaj en iliaj
+legomĝardenoj ol printempe kaj somere. Ja kiu bone rikoltas aŭtune, tiu
+bone manĝas vintre. Rikolti iĝas tamen pli kaj pli malfacile, ĉar
+komenciĝas tedaj aŭtunaj pluvoj, kiuj malhelpas pli diligente rikolti.
+Vilaĝanoj laboras streĉe, sed al ili tamen necesas helpi. Kaj oni helpas
+al ili. Lernantoj kaj studentoj, ofte eĉ laboristoj el urbaj fabrikoj
+kaj uzinoj.
+
+Aŭtune arbaro tute ŝanĝas sian aspekton. Ĝin oni ne plu povas rekoni. Ĝi
+staras mirinde diverskolora, belega en sia strange malvarma kaj malgaja
+aŭtuna beleco sen birdaj kantoj, kiuj rapidas forflugi suden.
+
+Malgajan aspekton havas ankaŭ herbejoj. Ili ne plu ĝojigas vin per belaj
+floroj. Eĉ herbo iel sekiĝis kaj flaviĝis.
+
+Kaj en novembro venas unuaj frostotagoj.
+
+La vintro. Kaj jen venas vintro, por unuj dezirata kaj jam delonge
+atendata, por aliaj — atendata, sed entute ne dezirata. Sed la plej ofte
+ĝi venas tute neatendite, kiam la blanka neĝo kovrilo kaŝas de ni la
+teron subite dum iu nokto.
+
+Dum vintro ofte frostas, kaj ni ja estas alkutimigitaj al tio, sed ni
+preferas pli la tagojn, kiam neĝas kaj la frosto ne estas tiom forta.
+
+Vintre arbaro staras ia mistera kaj enigma, iel timige bruas kvazaŭ ĝi
+estas malkontenta pro blankneĝa ornamo.
+
+Vintre estas la plej bela festo: la Nova Jaro. Tiun feston preterlasas
+neniu. Ĝi estas komuna por ĉiuj: kaj por katolikoj, kaj por ortodoksoj,
+kaj por protestantoj, kaj por sendiuloj kaj ateistoj. Ĉiuj ĝojas al tiu
+festo, junaj kaj maljunaj, infanoj kaj plenkreskuloj, viroj kaj virinoj.
+En hejmoj oni aranĝas novjaran aŭ kristnaskan arbon, en Belarusio tio
+estas abieto. En urboj sur placoj oni starigas kaj ornamas grandajn
+abiojn. Ili altiras atenton plej unue per siaj diverskoloraj elektraj
+lampetoj.
+
+Dum vintro la gelernantoj havas vintrajn feriojn. Dum tagoj ili povas
+libere kaj senzorge glitumi kaj skii aŭ veturi per sledoj. Certe preskaŭ
+ĉiu familio, en kiu estas infanoj, havas proprajn glitveturilojn.
+
+Sed kiom ajn oni ŝatus la vintron, al marto ĝi jam tedas al ni kaj ni
+senpacience komencas atendi printempon.
+
+7. La familio
+
+Mi nomiĝas Viktoro Ivanoviĉ Volski. Mia patrolando estas Belarusio. Mi
+loĝas en Minsk, ĉefurbo de mia patrujo.
+
+Mia familio ne estas granda. Ĝi konsistas el kvar personoj: mi, mia
+edzino kaj du niaj infanoj.
+
+Mi estas 35-jara viro. Mi laboras en uzino kiel simpla laboristo. Mi
+perlaboras bonan salajron kaj estas kontenta el mia laboro.
+
+Mia edzino Vera estas 29-jara virino. Ŝi laboras en mezlernejo. Ŝi estas
+instruistino. Ŝi instruas la matematikon kaj fizikon.
+
+Niaj infanoj ankoraŭ estas malgrandaj. Mia filo Nikolao estas 9-jara
+knabo kaj lernas nun en lernejo. Nia filino Nataŝa estas 5-jara knabino
+kaj ankoraŭ ne lernas. Ŝi frekventas infanĝardenon. Mi kaj mia edzino
+Vera, ni tre amas niajn gefilojn, kiuj estas tre ĉarmaj kaj tre saĝaj
+geknaboj.
+
+Miaj gepatroj kaj tiuj de mia edzino loĝas aparte de ni, sed ili de
+tempo al tempo vizitas nin. Ili ĉiam kunportas por siaj genepoj
+donacetojn kaj nature niaj gefiloj ĉiam estas ĝojaj al la alveno de siaj
+geavoj.
+
+8. Miaj gepatroj
+
+Miaj gepatroj loĝas ankaŭ en Minsk, tamen aparte de mia familio. Ni ofte
+vizitas ilin en ilia hejmo dum festoj aŭ simple dum libertagoj — sabate
+aŭ dimanĉe.
+
+Mia patro estas 62-jara viro. Li estas pensiulo. Sed li ne volas resti
+hejme sen laboro. Sekve li daŭrigas labori. Li laboras kiel gardisto en
+unu entrepreno.
+
+Mia patrino estas 57-jara virino. Ŝi ankaŭ estas pensiulino. Ŝi
+mastrumas hejme kaj zorgas pri la familio kaj hejmo. Ŝi diras, ke ŝi
+havas sufiĉe da laboro hejme.
+
+Miaj gepatroj loĝas kun mia malpliaĝa fratino. Mia fratino Nina estas 5
+jarojn malpliaĝa ol mi. Ŝi loĝas en aparta ĉambro kun sia edzo kaj bebo,
+malgranda knabineto Anĝela kaj nia Nataŝa estas ŝia kuzino. Anĝela
+komencas jam iomete paroli kaj niaj infanoj ŝatas ludi kun ŝi. Nataŝa
+lulas ŝin en la lulilo kaj kantas al ŝi siajn lulkantojn. Kaj Nikolao
+preferas rakonti al ŝi fabelojn.
+
+9. Miaj bopatroj
+
+Miaj bopatroj, t. e. (tio estas) la gepatroj de mia edzino, loĝas en
+vilaĝo, ne tre malproksime de Minsk. Ili ankoraŭ ambaŭ laboras en
+kolĥozo. Do la mastrumadon hejme prizorgas la avino de mia edzino, t.
+e. la praavino de miaj infanoj. Ni ofte vizitas ilian vilaĝon, precipe
+printempe, somere kaj aŭtune.
+
+Por niaj infanoj en vilaĝo estas ĉiam interese kaj ili tre ŝatas tien
+veturi. Tial ili ofte tedas al ni per demandoj:
+
+— Paĉjo, kiam ni denove vizitos niajn geavojn en vilaĝo?
+
+— Panjo, kiam ni denove veturos en vilaĝon?
+
+La vilaĝo, kie loĝas miaj bopatroj, troviĝas en tre bela loko: apud la
+vilaĝo estas negranda rivereto en pitoreska arbaro, kien niaj gefiloj
+ŝatas promeni. Al ili ankaŭ tre plaĉas naĝi en la rivereto dum varmegaj
+someraj tagoj.
+
+Tre interesaj por niaj gefiloj ŝajnas ankaŭ la vilaĝaj vesperoj. En la
+ĥaton de miaj bopatroj venas genajbaroj. Oni komencas babili, ŝerci kaj
+kanti malnovajn belarusajn popolajn kantojn, kiujn niaj gefiloj Niĉjo
+kaj Nanjo ne povas ekaŭdi en la urbo.
+
+Du tagoj de ripozo tamen pasas tre rapide kaj ni devas reveni hejmen.
+Kaj niaj infanoj revenas en Minskon ĉiam kun... ploro.
+
+10. La loĝejo
+
+Antaŭ kelkaj monatoj Viktoro Volski ricevis novan triĉambran loĝejon.
+Lia nova loĝejo troviĝas en nova urboparto, en larĝa kaj bela avenuo.
+Kaj antaŭe ili loĝis en la centro de la urbo, en Janka-Kupala-strato.
+
+Malgraŭ nun li loĝas iom malproksime de la centro de la urbo, li estas
+kontenta per sia nova loĝejo. Sed kial do? Por respondi ĉi tiun demandon
+ni faru malgrandan ekskurson tra la nova loĝejo de Viktoro.
+
+Jen ni staras apud bela 9-etaĝa konstruaĵo. Ĝi estas konstruita ĉi-jare,
+sed la tuta teritorio ĉirkaŭ la domo estas jam ordigita. Ĉie estas
+metita la asfalto. Ankoraŭ printempe estas plantitaj junaj arbetoj kaj
+arbustetoj.
+
+Jen estas la kvara enirejo. Ni eniras kaj premas la butonon de lifto,
+eniras en ĝin kaj veturas ĝis la sesa etaĝo. Jen antaŭ ni estas la pordo
+kun la loĝejnumero 268. Ni premas la butonon de la elektra sonorilo. La
+pordon malfermas Viktoro mem. Li certe estas tre ĝoja al nia alveno. Ni
+salutas lin kaj eniras en la antaŭĉambron. La antaŭĉambro ne estas
+granda, tamen en ĝi ni vidas vestoŝrankon kaj ŝranketon por ŝuoj. Sur la
+muro pendas granda spegulo. Apud la pordo estas vestopendigilo. El la
+antaŭĉambro apartaj pordoj lasas vin eniri en la infanĉambron, en
+komunan ĉambron (halon), en la dormoĉambron de la gepatroj, en la
+kuirejon, en la necesejon kaj en la banĉambron.
+
+Jen ni eniras en la infanĉambron. Ĉi tie staras du litetoj, unu por
+Nikolao kaj alia por Nataŝa. Apud la fenestro staras malgranda tableto,
+ĉe kiu Nikolao preparas siajn hejmotaskojn. Apud la tableto, en angulo,
+staras etaĝero kun lernolibroj kaj legolibroj de Nikolao. Sur la etaĝero
+troviĝas ankaŭ liaj kajeroj kaj albumo por desegnado. Ĉio estas ĉi tie
+en ordo: Nikolao estas tre akurata knabo.
+
+En alia angulo estas tute malgranda tableto kaj same malgranda seĝeto
+por Nataŝa. Ĉi tie ni vidas kelkajn pupojn kaj tutan aron da diversaj
+ludiloj de Nanjo.
+
+Sur la planko en la infanĉambro estas granda tapiŝo, kaj sur la muroj
+estas kelkaj infanbildoj.
+
+Ni eliras el la infanĉambro kaj direktas nin en la komunan ĉambron, kiun
+oni nomas ĉe ni plej ofte «halo». La mebloj en ĝi estas tute aliaj. En
+la angulo, apud la fenestro staras televidilo sur speciala tableto. Apud
+la pordo ĉe la muro staras divano. Sur la muro dekstre estas granda
+bildo: pitoreska pejzaĝo kun akvofalo. Tio estas fototapetoj,
+produktitaj en Jugoslavio. Maldekstre ĉe la muro staras libroŝranko el
+tri sekcioj. Meze de la ĉambro staras gazettableto kaj du foteloj.
+
+La sekva ĉambro estas la dormoĉambro de la gepatroj. En tiu ĉi ĉambro la
+mebloj estas pli modestaj ol en la komuna ĉambro. Ĉi tie staras du
+litoj, vestoŝranko, tualettableto de Vera, skribotablo de Viktoro kaj du
+seĝoj. Kiel ni povas konstati, la dormoĉambro de Viktoro ofte servas al
+li kiel laborĉambro.
+
+Kaj laste ni eniras en la kuirejon. Ĉi tie troviĝas gasforno,
+malvarmigejo, manĝotablo kaj kvar taburetoj. Apud la gasforno sur la
+planko staras ŝranketo. Sur la muro dekstre ankaŭ pendas la kuirejaj
+ŝranketoj kaj maldekstre — la sekigilo por manĝilaro super la lavtablo.
+En la sekigilo sekiĝas teleroj, supujoj, kruĉetoj, tasoj, forkoj kaj
+kuleroj.
+
+Ĉe la forno klopodas Vera, la edzino de Nikolao. Ŝi volas nin regali: ni
+ja estas gastoj!
+
+Ni rigardas tra la fenestro. El la kuirejo de Viktoro ni vidas aŭtobusan
+haltejon kaj pli malproksime multetaĝajn konstruaĵojn, larĝan straton,
+en kiu veturas aŭtobusoj kaj trolejbusoj, grandaj kaj malgrandaj
+aŭtomobiloj.
+
+Vera invitas nin al la tablo, regalas nin kaj ni foriras el la gastama
+hejmo nur vespere.
+
+11. Nia labortago
+
+Ĉiutage Viktoro levas sin je la 7-a horo matene. Li vekiĝas kutime
+memstare. Sed iafoje lin vekas lia edzino, kiu levas sin kutime pli frue
+ol ŝia edzo. Tamen kiam li devas sin levi ankoraŭ pli frue, li streĉas
+la vekhorloĝon.
+
+Vekiĝinte, li eksaltas el la lito kaj komencas sian maten gimnastikon,
+kiun li faras dum 10—15 minutoj. Poste li direktas sin en la banĉambron.
+Se estas necese, li razas sin. Kutime li razas sin ĉiun duan tagon.
+Poste li purigas la dentojn per la dentobroso kaj lavas sin. Viktoro
+havas bonan kutimon sin lavi ĝis la zono per malvarma akvo. Poste li
+viŝas sin per viŝtuko kaj revenas en sian dormoĉambron. En la
+dormoĉambro li vestas sin. Komence li vestas la ĉemizon kaj poste la
+pantalonon.
+
+Je la 7-a kaj duono la tuta familio eksidas ĉe la tablo. La matenmanĝo
+kutime ne daŭras longe. Precize je la 8-a horo la tuta familio eliras el
+la loĝejo kaj oni direktas sin al la lifto. Elirinte el la domo ĉiu iras
+sian vojon. Nikolao direktas sin al la lernejo memstare: li ja estas jam
+granda knabo! La patrino kun la filino direktas sin al la infanĝardeno,
+kie la patrino lasos la knabinon kaj plu iros al sia laborloko, en la
+lernejon, kie ŝi instruas la matematikon kaj fizikon. La infanĝardeno
+estas en la najbara korto kaj la lernejo de la patrino ankaŭ estas
+proksime. Do ŝi iras tien perpiede. Kaj Viktoro direktas sin al la
+aŭtobusa haltejo. Per aŭtobuso li veturas ĝis sia uzino dum 15 minutoj.
+
+En la uzino Viktoro laboras dum ok horoj, ekde la 9-a matene ĝis la 6-a
+vespere kun unuhora interrompo por tagmanĝo. Por la tagmanĝo Viktoro ne
+revenas hejmen, ĉar li tagmanĝas en la uzina kantino.
+
+Kiam Viktoro revenas el la uzino, lia tuta familio estas jam hejme. La
+infanoj renkontas la patron kun la ĝojkrioj. Viktoro ĉiam revenas el la
+laboro pli malfrue, ĉar post laboro li ankoraŭ sin lavas en la uzina
+duŝejo.
+
+Je la 8-a horo vespere la tuta familio vespermanĝas kune. Post la
+vespermanĝo la patrino restas en la kuirejo por lavi la manĝilaron:
+telerojn, tasojn, forkojn kaj kulerojn. Viktoro kun infanoj iras en la
+komunan ĉambron. Tie li kontrolas, kiel Nikolao estas plenuminta la
+lernejajn hejmo taskojn kaj klarigas al la filo tion, kion Nikolao
+miskomprenis aŭ ne sufiĉe klare komprenis en la lernejo. Kaj jen la
+patrino ankaŭ venas el la kuirejo kaj la tuta familio eksidas ĉe la
+televidilo.
+
+Je la 9-a horo la patrino enlitigas la gefilojn kaj la geedzoj restas
+solaj por spekti la televidprogramon aŭ legi kune iun interesan
+artikolon en ĵurnalo.
+
+Je la 11-a horo ili enlitiĝas ankaŭ.
+
+12. Ripoztagoj
+
+Sabate. Hodiaŭ estas sabato. La tuta familio de Viktoro vekiĝas kiel
+kutime je la 7-a horo matene. Kiel ĉiutage la filo de Viktoro Nikolao
+iras en la lernejon. La edzino de Viktoro iras en la lernejon ankaŭ.
+Hodiaŭ ŝi havas kutiman labortagon. Sed Viktoro hodiaŭ ne laboras, li
+havas sabate plej ofte libertagon. Do li restas hejme kun la filino.
+Tamen li levas sin kiel ĉiuj je la 7-a horo. Li faras sian kutiman maten
+gimnastikon. Kiam Nikolao kaj Vera foriras, Viktoro komencas ion fari.
+Unue li ripetas lecionojn de Esperanto. Poste li prenas la leterojn de
+siaj leteramikoj el eksterlando kaj relegas ilin. Li havas jam sufiĉe
+multe de geko respondantoj el pluraj landoj de Eŭropo, Azio kaj Ameriko.
+Nur en Afriko kaj Aŭstralio li havas neniun korespondanton. Traleginte
+la leterojn, li komencas respondi ilin. Kiam li finas la leterskribadon,
+vekiĝas lia filino. Viktoro nutras ŝin, vestas ŝin, vestas sin mem kaj
+ili eliras iomete promeni. Preterirante la poŝtoficejon, ili eniras en
+ĝin kaj enmetas la leterojn en la poŝtkeston.
+
+Reveninte hejmen post la promenado, Viktoro okupiĝas pri io alia: li
+riparas ion aŭ portas en la korton tapiŝojn kaj batpurigas ilin tie.
+Poste li legas fabelojn aŭ infanrakontojn al la filino.
+
+Je la 2-a horo posttagmeze revenas el la lernejo lia filo Nikolao kaj
+ankoraŭ post unu horo lia edzino Vera. Ili tagmanĝas kune kaj komencas
+ordigi la loĝejon: la patrino lavas la plankon, la patro lavas la
+fenestrojn kaj la filo viŝas la polvon. Ankaŭ la malgranda filino helpas
+al sia frato.
+
+Ilia laboro daŭras unu horon, iam iomete pli. Sed jen ĉio estas finita.
+Tiam Nikolao kaj lia fratino iras en la korton ludi kaj la gepatroj
+restas hejme por okupiĝi pri iuj aliaj aferoj, kiuj ĉiam abundas en la
+familio.
+
+Vespere la tuta familio estas hejme. Ili priparolas, kion ili faros
+morgaŭ, kiel ili ripozos. Nikolao proponas iri kune en kinejon por
+spekti novan filmon. Lia fratino volas iri en la zoologian ĝardenon: ŝi
+volas rigardi sovaĝajn bestojn. Kaj fine estas decidite: matene ili iros
+en kinejon kaj spektos novan filmon kaj posttagmeze ili vizitos zoologia
+parkon.
+
+Dimanĉe. Dimanĉe la familio Volski vekiĝas pli malfrue ol kutime. Ili
+levas sin je la 8-a horo matene. Je la 9-a horo ili matenmanĝas. Je la
+horo komenciĝas la unua filmoprezentado en la proksima kinejo. Nikolao
+foriras el la hejmo unu duonhoron pli frue por preni biletojn. Ĉiuj
+aliaj foriras el la hejmo je la 10-a kaj duono. Je la 15 minutoj antaŭ
+la 11-a ili estas jam antaŭ la kinejo. Nikolao jam aĉetis enirbiletojn
+kaj atendas ilin.
+
+Ili eniras en la kinejon. Dum kelkaj minutoj ili povas ankoraŭ resti en
+la antaŭ spektejo. Tial ili direktas sin en la bufedejon. Viktoro aĉetas
+por la gefiloj kaj edzino glaciaĵojn.
+
+Jen sonas la sonorilo, invitante la spektontojn en la spekto halon.
+Viktoro, lia edzino kaj iliaj gefiloj eniras en la spektejon, trovas
+iliajn sidlokojn kaj sidiĝas. Subite la lumo estingiĝas kaj la filmo
+komenciĝas.
+
+Post la fino de la filmo la familio Volski eliras el la kinoteatro kaj
+revenas hejmen. Laŭvoje ili priparolas la filmon. Dum la disputo pri la
+filmo la plej babilema estas Nikolao. Oni vidas, ke li estas tre
+kontenta. Kaj pri ĉiu filmo li ĉiam havas sian propran opinion. Certe li
+ĉiam estas prava.
+
+En zoologia parko. En Minsk forestas propra zoologia ĝardeno. Sed nun
+funkcias en la urbo ekspozicio el grodna zoologia parko. Hodiaŭ
+posttagmeze viziti ĝin intencas la familio Volski. Ĉar la ekspozicio
+troviĝas tre malproksime de la loĝejo de Volski-familio, ili veturas
+tien per aŭtobuso.
+
+Kaj jen estas zoologia parko. La patro pagas la monon en la kason kaj
+ricevas enirbiletojn. La kontrolantino lasas ilin eniri kaj ili komencas
+fikse rigardadi la bestojn kaj birdojn, kiuj troviĝas en la kaĝoj. Ĉi
+tie estas diversaj sovaĝaj bestoj: lupoj, vulpoj, ursoj, tigroj, leporoj
+kaj aliaj bestoj. Nataŝa tre longe staris ĉe la kaĝoj, en kiuj troviĝis
+tre amuzaj simioj. Intereson de la infanoj elvokis ankaŭ papagoj kaj
+aliaj birdoj.
+
+Ĉiuj restis tre kontentaj pri la vizito al la zoologia ĝardeno.
+
+13. Biografio
+
+Viktoro Volski naskiĝis la 25-an de marto en urbo Minsk. Lia patro tiam
+laboris en unu el minskaj uzinoj kaj la patrino — en la fabriko. Kiam
+Viktoro havis kvin jarojn, lia patro ricevis novan loĝejon kun ĉiuj
+komfortaĵoj kaj la familio transloĝiĝis en la novan urboparton de
+Minsko.
+
+Kiam Viktoro estis 7 jarojn aĝa, li komencis studi en lernejo, kiun li
+sukcese finis en la jaro 1968. En tiu ĉi lernejo li aniĝis unue en la
+pioniran organizaĵon kaj pli malfrue — en komsomolon (junkomunistan
+organizaĵon).
+
+Post la fino de la mezlernejo Viktoro provis aniĝi en la minskan
+politeknikan instituton (superan lernejon), sed vane: li ne sukcesis
+superi multajn aliajn en la konkursaj enirekzamenoj. Tiam li eniris en
+la traktorfabrikan uzinon kiel lernanto ĉe simpla laboristo. Post kelkaj
+monatoj li akiris por si la profesion de seruristo. El la uzino oni lin
+rekrutigis en la armeon. Viktoro armeservis malproksime de Minsk, en
+Siberio.
+
+Post la fino de armea servado Viktoro ne plu provis aniĝi al iu ajn
+instituto kaj revenis labori en la traktorfabrika uzino. Li denove
+komencis labori kiel metallaboristo. Samtempe li akiris la duan
+profesion, tiun de tornisto.
+
+En la jaro 1973, kiam li estis 22-jara, Viktoro edziĝis al la bela
+junulino Vera. Nun Viktoro kaj Vera havas du infanojn. Antaŭnelonge ili
+ricevis novan triĉambran loĝejon.
+
+En la pasinta jaro Viktoro komencis lerni Esperanton. Nun li jam sufiĉe
+bone parolas en Esperanto kaj sufiĉe facile legas la librojn en
+Esperanto. Li volonte kaj multe korespondas kun eksterlandaj
+geesperantistoj, kio permesas al li profundigi siajn konojn en la lingvo
+kaj perfektiĝi en la lingvouzo. Li ankaŭ abonas kelkajn gazetojn en
+Esperanto kaj legas ilin kun intereso.
+
+14. Amiko
+
+Nikolao estas amiko de Viktoro malgraŭ li estas iom malpli aĝa ol
+Viktoro. Malgraŭ sia aĝo, Nikolao estas ankoraŭ fraŭlo, sed li volas
+baldaŭ edziĝi al sia amikino Lena.
+
+Nikolao estas altstatura juna viro kun bela vizaĝo kaj kun la staturo de
+sportisto. Li havas brunajn okulojn. Lia nazo estas mezgranda, liaj
+lipoj estas ruĝaj kaj maldikaj, lia mentono estas malgranda. Mallarĝa
+strieto de liaj lipharoj tre konvenas al lia vizaĝo. La barbon tamen li
+ne havas. Lian kapon kovras iom krispaj haroj. Li estas kaŝtanharulo.
+(Li havas kaŝtankolorajn harojn). El-sub liaj longaj kapharoj apenaŭ
+videblas liaj oreloj. Lia kolo malgraŭ sportista staturo ne estas dika.
+
+Se ni vidos lin sur la plaĝo, en naĝpantaloneto, ni povas** **admiri**
+**lian belan korpon: sunbruligitajn dorson, bruston kaj ventron, brakojn
+kun bone disvolvigitaj muskoloj kaj fortaj manoj, longajn sveltajn
+gambojn, kovritajn per nigraj haroj, krurojn kaj grandajn piedojn kun
+mallongaj fingroj.
+
+Nenion oni povas diri kontraŭ, Nikolao estas svelta juna viro, ĝuste el
+tiuj, kiuj tre plaĉas al virinoj.
+
+15. Amikino
+
+Lena estas amikino de Nikolao. Ŝi estas kvin jarojn pli juna ol li. Ŝi
+estas ĉiam gaja, bonhumora kaj eĉ iufoje ŝajnas esti iom facilmensa.
+Sed, se vi tion ekpensos pri ŝi, vi certe eraros: Lena bone studas en la
+instituto kaj estas ankaŭ tre aktiva en nia klubo esperantista. Malgraŭ
+ŝi komencis studi Esperanton antaŭnelonge, ŝi jam bone parolas
+Esperanton.
+
+Lena estas mezstatura svelta junulino. Ŝi havas blondajn harojn (ŝi
+estas blondulino). Ŝiaj bluaj okuloj, kiam ŝi koleras aŭ malkontentas,
+ŝajnas eŝti grizaj.
+
+Lena estas tre bela junulino: ŝia malgranda buŝeto, ŝia ronda mentono,
+rekta frunto kaj palrozaj vangoj kun ĉarmaj kavetoj atingas ĉiam la
+atenton de junuloj kaj aĝaj viroj. Sed Lena tre amas sian amikon Nikolao
+kaj kvazaŭ ne rimarkas tion ĉi. Ŝi ĉiam restas simpla kaj modesta.
+
+16. Nutraĵoj
+
+Matenmanĝo. Hodiaŭ estas kutima labortago. Je la 7-a horo kaj duono
+Viktoro, Vera kaj iliaj infanoj Nikolao kaj Nataŝa estas en la kuirejo.
+La kuirejo servas al ili ankaŭ kiel manĝejo. Ĉiuj sidas ĉetable. La
+familio matenmanĝas ĉiam kvarope. Hodiaŭ ili manĝas ovaĵon.
+
+— Mi pli volonte manĝus hodiaŭ molan ovon,— diras Nataŝa. — Kaj vi
+Nikolao?
+
+— Kaj mi prefere manĝus malmolan omleton.
+
+— Ĉesu babili! — malkontente diras la patrino. — Ni ne havas tempon por
+babilado.
+
+Ĉiuj finmanĝas la ovaĵon kaj poste trinkas kafon kun buterpano. La
+buterpano konsistas el panpeco kun butero kaj kun peceto da fromaĝo.
+
+Tagmanĝo. Dum la kutima labortago Viktoro tagmanĝas en la uzina kantino,
+lia edzino Vera kaj lia filo Nikolao tagmanĝas en la lerneja manĝejo,
+kaj lia filino Nataŝa tagmanĝas en sia infanĝardeno.
+
+En la uzina kantino oni proponas al la laboristoj kompleksajn
+tagmanĝojn. Viktoro, kiel kutime, eniras en la kantinon kaj konatiĝas
+kun menuo (manĝokarto). Hodiaŭ oni proponas tri kompleksojn:
+
+Komplekso 1
+
+1. Malvarma almanĝo: haringo kun cepo.
+
+2. Unua manĝaĵo: barĉo ukraina ruĝa.
+
+3. Dua manĝaĵo: kotletoj laŭhejme.
+
+4. Por deserto: kompoto.
+
+Komplekso 2
+
+1. Malvarma almanĝo: legomaĵo.
+
+2. Unua manĝaĵo: piza supo kun viando.
+
+3. Dua manĝaĵo: bifsteko kun terpoma kaĉo.
+
+4. Por deserto: kiselo (frukta amelaĵo).
+
+Komplekso 3
+
+1. Malvarma almanĝo: salato el freŝa brasiko.
+
+2. Unua manĝaĵo: riza laktosupo.
+
+3. Dua manĝaĵo: kazea fritaĵo.
+
+4. Por deserto: kakao kun biskvitoj.
+
+Post ioma pripenso Viktoro decidas preni la unuan komplekson. Li iras en
+la kason kaj pagas la monon. Ricevinte ĉekon, li iras en la manĝohalon
+kaj prenas la pleton, metas sur ĝin kuleron, kulereton kaj forkon, en la
+disdonejo li ricevas necesajn manĝaĵojn, prenas kelkajn pecetojn da
+nigra pano kaj unu peceton da blanka pano, trovas liberan lokon, sidiĝas
+kaj trankvile, ne rapidante manĝas.
+
+Aliel estas en la manĝejoj de la lernejoj, kie laboras Vera, edzino de
+Viktoro, aŭ kie lernas Nikolao, filo de Viktoro. Tie ne estas elekto. La
+lernantoj manĝas dum la inter lecionoj. Por la bezonata tempo la
+laborantinoj de la manĝejo metas la telerojn kun manĝaĵoj kaj la glasojn
+kun trinkaĵoj (teo, kiselo, aŭ kompoto) sur la tablojn kaj la
+gelernantoj, veninte en la manĝejon, okupas siajn lokojn kaj manĝas.
+Iliaj gepatroj estas jam antaŭpagintaj ilian nutradon por la tuta
+semajno aŭ eĉ por la tuta monato antaŭen.
+
+La geinstruistoj manĝas laŭ sia bontrovo: unuj iras manĝi hejmen, se ili
+loĝas proksime de la lernejo, aliaj manĝas en la proksima al ilia
+lernejo kantino, triaj — en la lerneja kantino dum leciono, kiu ne estas
+por ili okupita.
+
+Vespermanĝo. La familio de Viktoro vespermanĝas kune. Ĉiuj estas jam
+revenintaj hejmen. Sur la tablo estas 4 manĝilaroj: po 4 teleretoj, po 4
+forkoj, po 4 tasoj kun subtasoj, meze de la tablo estas panujo kaj
+sukerujo. Ankaŭ negranda samovaro estas sur la tablo. Sur la samovaro
+estas negranda teujo por kuirado de teo.
+
+En la kuirejo klopodas Vera. Ŝi prenas el la malvarmigejo kolbasetojn,
+metas ilin en la kaserolon, en kiu jam bolas la akvo. Post 5-minuta
+kuirado la kolbasetoj estas jam pretaj. Vera eligas ilin el la kaserolo
+kaj metas po unu kolbaseto en ĉiun telereton, al la kolbaseto ŝi aldonas
+ankoraŭ po iomete da kuirita nudelo. Poste ŝi vokas la tutan familion
+vespermanĝi.
+
+17. En nutraĵvendejo
+
+Vera venis en nutraĵan vendejon. Ŝi volas fari kelkajn aĉetaĵojn.
+
+La vendejo estas granda kaj konsistas el kelkaj sekcioj. En la pansekcio
+ŝi prenas unu brikon da nigra pano, unu blankan panbulon kaj kelkajn
+panringojn. En sukeraĵejo ŝi prenas 200 gramojn da bonbonoj por Nataŝa
+kaj unu kilogramon da sukero. En la lakta sekcio ŝi prenas du botelojn
+da lakto kaj unu pakon da kazeo, 200 gramojn da butero. En la vianda
+sekcio ŝi volas preni unu kilogramon da ŝafaĵo, sed hodiaŭ ĉi tie ŝafaĵo
+forestas, tial ŝi prenas unu kilogramon da bovaĵo kaj unu kilogramon da
+porkaĵo. En la kolbaskaj fiŝsekcioj ŝi prenas nenion. Ŝi prenas tamen
+ankoraŭ unu pakon da salo kaj unu pakon da makaronioj. Ŝi pagas la monon
+en la kason kaj foriras el la magazeno. Laŭvoje ŝi eniras en la
+legomsekcion, kiu havas apartan enirejon, kaj prenas tie du kilogramojn
+da pomoj. Bedaŭrinde nek pirojn, nek oranĝojn, nek citronoj ŝi povas
+aĉeti, ĉar ili simple forestas en la vendado.
+
+18. En universala magazeno
+
+Homoj aĉetas ne nur nutraĵojn, sed ankaŭ diversajn industriajn varojn.
+Tial ili de tempo al tempo vizitas diversajn vendejojn. Ekzistas
+diversaj specoj da vendejoj. Ekzemple en meblo vendejo oni povas aĉeti
+ŝrankon aŭ ŝranketon, tablojn por diversaj bezonoj: manĝotablon,
+skribotablon, ĵurnaltablon ktp, liton aŭ kanapon, sofon aŭ divanon,
+libroŝrankon aŭ librobreton, vestoŝrankon aŭ vesto pendigilon, bufedon
+kaj grandan spegulon apud muran aŭ surmuran.
+
+En la vendejo «infana mondo» oni povas aĉeti ĉion por infanoj. Ĉi tie
+oni povas trovi diversajn ludilojn: tintiletojn, kubetojn, pupojn,
+pilkojn ktp. Tie ĉi oni povas ankaŭ aĉeti diversajn vestaĵojn por
+geknaboj, ŝuojn kaj aliajn varojn por infanoj.
+
+Sed la plej grandaj vendejoj estas certe universalaj magazenoj. Kune ni
+trakuru hodiaŭ tra unu el ili.
+
+Jen ni eniras en la unuan etaĝon. La tuta maldekstra flanko estas
+okupita per la fako (sekcio) «Ĉio por hejmo». En ĉi tiu sekcio oni povas
+aĉeti varojn por la servicaranĝo de la tablo: telerojn kaj teleretojn,
+pladojn kaj pladetojn, tasojn kaj subtasetojn, glasojn kaj sub
+glasetojn, pokalojn kaj pokaletojn, kulerojn kaj kuleretojn, forkojn kaj
+tranĉilojn. Oni vendas ĉi tie ankaŭ supujojn, sukerujojn, buterujojn
+ktp.
+
+En la dua sekcio oni vendas la varojn por kuirejo: kaldronojn,
+marmitojn, kaserolojn, patojn, pelvojn, miksilojn, kafujojn kaj
+kafmuelilojn, submetaĵojn kaj viandtabulojn, korbojn kaj kribrilojn,
+bretojn-sekigilojn kaj kradojn por vaporkuirado, raspilojn kaj
+pistilojn, potojn kaj kruĉojn.
+
+En la tria sekcio oni vendas la varojn el kristalo kaj vitro:
+diversdimensiajn vazojn, glasojn, pladetojn, pokalojn pokaletojn.
+
+Plue estas la sekcio, kie estas vendataj siteloj, korboj por balaaĵoj
+kaj korboj por tolaĵoj, kuvetoj kaj sapujoj, vestopendigiloj kaj
+kusenoj, brosoj kaj alkroĉigiloj, banbastoj kaj banstupoj.
+
+Poste sekvas la sekcio de elektraj varoj: ĉi tie estas troveblaj lustroj
+kaj starlampoj, tablolampoj kaj murlampoj, diversformaj lumigiloj kaj
+ŝaltiloj (konektiloj), konektingoj kaj kondukŝnuretoj. Plue ni vidas
+pli grandajn varojn: malvarmigejojn, lavmaŝinojn, senpolvigilojn,
+elektrajn gladilojn ktp.
+
+Elektrajn varojn sekvas lavrimedoj: sapo, lavpulvoro, lavpasto,
+pargetvakso, vakso por ŝuoj. Ankaŭ lavtabulojn, tabulojn por gladi,
+ŝovelilojn kaj balailojn oni povas aĉeti tie ĉi.
+
+Plue sekvas la sekcio, kie oni povas aĉeti diversajn porhejmajn
+bagatelaĵojn: botelmalfermilojn, numeretojn ktp.
+
+En la dekstra flanko de la unua etaĝo estas grandaj sekcioj de donacoj
+kaj radio-varoj. En la sekcio de donacoj oni povas aĉeti plej diversajn
+varojn: gravuraĵojn, pentraĵojn, etplastikaĵojn, dekoraciitajn
+skatoletojn kaj kestetojn, zonojn kaj monujojn, argilajn, lignajn kaj
+pajlajn figuretojn, metalaĵojn kaj ledaĵojn, teksaĵojn kaj ceremikaĵojn,
+bele dekoritajn tasojn kaj subtasojn el ceramiko, bele ornamitajn
+lignajn kulerojn kaj mantukojn teksitajn de popolaj lertulinoj.
+
+En la sekcio de radio-varoj estas vendataj radioriceviloj, transistoroj,
+gramofonoj, magnetofonoj, magnetofonaj bendoj, koloraj kaj nigra-blankaj
+televidiloj.
+
+Per eskalatoro (ruliĝanta ŝtuparo) ni veturas al la dua etaĝo. Jen estas
+la sekcio de gramofondiskoj. Ĉi tie ni havas grandan elekton de diskoj
+laŭbezone. Vi povas aĉeti diskojn de simfonia, ĉambra, orgena, ĵaza,
+leĝera, estrada kaj dancmuziko. Ne mankas ĉi tie ankaŭ diskoj de
+popolaj kantoj kaj dancoj, diskoj kun sonregistroj de pianaj kaj
+violonaj koncertoj, kun arioj el operoj kaj operetoj, diskoj kun
+koncertoj de konataj kantistoj kaj kantistinoj, de diversaj estradaj
+grupoj. Apude estas la sekcio de muzikaj instrumentoj, kie vi povas
+aĉeti harmonikon aŭ akordionon, bajanon aŭ balalajkon, trombonon aŭ
+tamburon, violonĉelon aŭ gitaron, fluton aŭ klarneton, pianon aŭ
+ksilofonon, violonon aŭ mandolinon, cimbalon aŭ timpanon, trumpeton aŭ
+saksofonon, hobojon aŭ simple blovtubon.
+
+La sekva sekcio estas «Kancelariaj varoj». Ĉi tie estas vendataj
+tornistroj, ledaj kaj kartonaj tekoj, lernejaj paperujoj, albumoj,
+kajeroj, krajonoj, inko, tuĉo, guaŝo, farboj, gluo, plastilino,
+frotgumoj, plumoj, plumingoj, plumujoj, fontoplumoj, globkrajonoj,
+liniiloj, cirkeloj, skribpapero, desegnopapero, papero por tajpiloj,
+kovertoj ktp.
+
+La resto de la etaĝo estas disponigita por la sekcioj kun varoj por
+viroj. Ili povas aĉeti ĉi tie por si mantelon, palton, pluvmantelon,
+kostumon, ĉemizon aŭ pantalonon laŭ sia grando. Oni povas ĉi tie aĉeti
+jakon aŭ ĵaketon, ĉapelon aŭ ĉapon, kasketon, kepon aŭ bireton. Jen
+estas la sekcio de kravatoj, kiun sekvas la sekcio de subvestoj, kie oni
+povas aĉeti subĉemizon kaj sportĉemizon, pantaloneton, kalsonon aŭ
+bankalsonon.
+
+Estas apartaj sekcioj por ledaj varoj (valizoj, tekoj, tornistroj,
+zonoj), por duonŝtrumpoj, por ŝuoj.
+
+En la tria etaĝo estas vendataj varoj por virinoj: diversaj ŝtofoj
+(tolo, katuno, drapo, krimpleno, veluro), roboj, jupoj, sarafanoj,
+jakoj, pluvmanteloj, ombreloj, botoj, ŝuoj, pantofloj, ŝtrumpoj,
+ŝtrumpetoj kaj diversaj galanteriaj varoj.
+
+En la kvara etaĝo oni vendas varojn por sporto kaj turismo kaj varojn
+por manlaboro — fadenojn, kudrilojn, butonojn ktp.
+
+Por simple trakuri la universalan magazenon necesas sufiĉe multe da
+tempo. Kaj se vi volas ion elekti, ion almezuri (surprovi)... Ho Dio!
+Kiom da tempo vi tiam bezonas!
