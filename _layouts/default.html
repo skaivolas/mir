@@ -37,13 +37,13 @@
 
     {% include menu.html %}
 
-    {% unless site.hide_credits %}
+    {% if site.footerdecription %}
       <aside class="site-credits">
         <p>
-          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
+          <small>{{ site.footerdecription }}</small>
         </p>
       </aside>
-    {% endunless %}
+    {% endif %}
 
   </body>
 </html>
