@@ -33,9 +33,9 @@ layout: default
   </h1>
 
   {% if site.paginate and site.paginate_path %}
-    
+
     <ul class="post-list">
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts | reverse %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
@@ -61,12 +61,12 @@ layout: default
   {% else %}
 
     <ul class="post-list">
-      {% for post in site.posts %}
+      {% for post in site.posts |reverse %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
+
   {% endif %}
-    
+
 
 </main>
