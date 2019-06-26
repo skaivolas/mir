@@ -18,7 +18,7 @@ email: beloarscience@fias.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Падручнік міжнароднай мовы эсперанта А.А.Паўлюкаўца
 footerdescription: >- # this means to ignore newlines until "baseurl:"
-  Падручнік міжнароднай мовы эсперанта А.А.Паўлюкаўца<br>Падрыхтоўка &colon; А.Кошаль — В.Шклярык (<a href="https://philology.by" target="_blank";>Philology.by</a>) — М.Севелеў-Дуброўнік (<a href="https://vodary.fias.fr/tag/belarusan%C2%B7language/" target="_blank";>Ямы, вуллі і віры</a>)
+  Падручнік міжнароднай мовы эсперанта А.А.Паўлюкаўца<br><!--Падрыхтоўка &colon; А.Кошаль — В.Шклярык (<a href="https://philology.by" target="_blank";>Philology.by</a>) — М.Севелеў-Дуброўнік (-->Электронная версія&colon; <a href="https://vodary.fias.fr/tag/belarusan%C2%B7language/" target="_blank";>Ямы, вуллі і віры</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://esperanto.dyskurs.be" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
