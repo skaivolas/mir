@@ -6,10 +6,13 @@ search_omit: true
 
   <!-- Search form -->
   <form method="get" id="search" action="/search" data-search-form>
-    <label for="q">Пошукавы запыт</label>
+    <!--<label for="q">Пошукавы запыт</label>-->
     <input type="search" name="q" id="q" placeholder="Увядзіце пошукавы запыт" data-search-input />
-    <!--<input type="submit" value="Search" />-->
-    <button type="submit" class="btn btn-bordered" value>Search</button>
+    <input type="hidden" name="k8" value="#222222"/>
+  <input type="hidden" name="k9" value="#dc4b3c"/>
+  <input type="hidden" name="kt" value="h"/>
+  <input type="text" id="search__input" name="q" placeholder="Search&hellip;"/ autocomplete="off">
+    <input type="submit" class="btn btn-bordered" value="Шукаць!" />
   </form>
 
   <!-- Search results placeholder -->
