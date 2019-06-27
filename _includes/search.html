@@ -4,3 +4,13 @@
   <input type="submit" value="search">
 </form>
 
+  <form method="get" id="search" action="/search" data-search-form>
+    <input type="search" name="q" id="search__input" placeholder="Увядзіце пошукавы запыт" data-search-input autocomplete="off"/>
+  </form>
+
+  <!-- Search results placeholder -->
+  <p data-search-found>
+    <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
+  </p>
+  <div data-search-results></div>
+
