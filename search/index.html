@@ -6,12 +6,7 @@ search_omit: true
 
   <!-- Search form -->
   <form method="get" id="search" action="/search" data-search-form>
-    <!--<label for="q">Пошукавы запыт</label>-->
-    
-    <input type="hidden" name="k8" value="#222222"/>
-  <input type="hidden" name="k9" value="#dc4b3c"/>
-  <input type="hidden" name="kt" value="h"/>
-    <input type="search" name="q" id="q" placeholder="Увядзіце пошукавы запыт" data-search-input autocomplete="off"/>
+    <input type="search" name="q" id="search__input" placeholder="Увядзіце пошукавы запыт" data-search-input autocomplete="off"/>
     <input type="submit" class="btn btn-bordered" value="Шукаць!" />
   </form>
 
@@ -21,14 +16,6 @@ search_omit: true
   </p>
   <div data-search-results></div>
 
-<form method="get" id="search" action="https://duckduckgo.com/">
-  <input type="hidden" name="sites" value="{{ site.url }}"/>
-  <input type="hidden" name="k8" value="#222222"/>
-  <input type="hidden" name="k9" value="#dc4b3c"/>
-  <input type="hidden" name="kt" value="h"/>
-  <input type="text" id="search__input" name="q" placeholder="Search&hellip;"/ autocomplete="off">
-  <button type="submit" class="btn btn-bordered" tabindex="-1">Search</button>
-</form>
 
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
