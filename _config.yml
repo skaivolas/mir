@@ -45,3 +45,6 @@ plugins:
 
 paginate: 40
 paginate_path: "/page/:num/"
+
+algolia:
+  application_id: '6EXTZUYP0T'
