@@ -4,13 +4,12 @@ title: Пошук
 search_omit: true
 ---
 
-  <h1>Search</h1>
-  
   <!-- Search form -->
-  <form method="get" action="/search" data-search-form>
-    <label for="q">Search term</label>
-    <input type="search" name="q" id="q" placeholder="Enter search term" data-search-input />
-    <input type="submit" value="Search" />
+  <form method="get" id="search" action="/search" data-search-form>
+    <label for="q">Пошукавы запыт</label>
+    <input type="search" name="q" id="q" placeholder="Увядзіце пошукавы запыт" data-search-input />
+    <!--<input type="submit" value="Search" />-->
+    <button type="submit" class="btn btn-bordered" value>Search</button>
   </form>
 
   <!-- Search results placeholder -->
@@ -19,7 +18,14 @@ search_omit: true
   </p>
   <div data-search-results></div>
 
-
+<form method="get" id="search" action="https://duckduckgo.com/">
+  <input type="hidden" name="sites" value="{{ site.url }}"/>
+  <input type="hidden" name="k8" value="#222222"/>
+  <input type="hidden" name="k9" value="#dc4b3c"/>
+  <input type="hidden" name="kt" value="h"/>
+  <input type="text" id="search__input" name="q" placeholder="Search&hellip;"/ autocomplete="off">
+  <button type="submit" class="btn btn-bordered" tabindex="-1">Search</button>
+</form>
 
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
