@@ -30,13 +30,6 @@ published: true
     {{ content }}
   </div>
 
-  <div class="post-meta" >
-    {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
-    {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="color:white;">{{ page.date | date: "%B %-d, %Y" }}</time>
-  </div>
-  
   <div class="PageNavigation">
   {% if page.previous.url %}
     <span style="float:left;"><a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></span>
@@ -45,6 +38,15 @@ published: true
     <span style="float:right;"><a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></span>
   {% endif %}
 </div>  
+  
+  <div class="post-meta" >
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" style="color:white;">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+  
+  
 
   {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
