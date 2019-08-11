@@ -90,8 +90,8 @@ function getData(indexVar) {
       // Get search results if q parameter is set in querystring
       if (getParameterByName('q')) {
         q = decodeURIComponent(getParameterByName('q'));
-        $searchInput.val(q);
-        execSearch(q);
+        $searchInput.val(q.replace(/'/, "’"));
+        execSearch(q.replace(/'/, "’"));
       }
     })
     .fail( function() {
