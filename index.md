@@ -78,3 +78,38 @@ published: true
 ## Раздзел V [Эсперанта-беларускі слоўнік](/2018/06/05/43.html)
 
 ## [Бібліяграфія](/2018/06/05/44.html)
+
+
+   {% for post in paginator.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+
+{% if paginator.total_pages > 1 %}
+
+      <div class="post-pagination">
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+      </div>
+
+    {% endif %}
+
+  {% else %}
+
+    <ul class="post-list">
+      {% for post in site.posts reversed %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+
+  {% endif %} 
+
