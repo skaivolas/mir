@@ -103,7 +103,7 @@ published: true
 
     {% endif %}
 
-  {% else %}
+ {% else %}
 
     <ul class="post-list">
       {% for post in site.posts reversed %}
@@ -111,5 +111,5 @@ published: true
       {% endfor %}
     </ul>
 
-  {% endif %} 
+ {% endif %} 
 
