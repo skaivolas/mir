@@ -101,15 +101,6 @@ published: true
         {% endif %}
       </div>
 
-    {% endif %}
+ {% endif %}
 
- {% else %}
-
-    <ul class="post-list">
-      {% for post in site.posts reversed %}
-        {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-
- {% endif %} 
-
+ 
