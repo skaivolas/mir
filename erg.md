@@ -57,7 +57,7 @@ GSM: +1 262 563 3090 (+SMS)
 
 <table>
 <colgroup>
-<col style="width: 50%" />
+<col style="width:  50%" />
 <col style="width: 50%" />
 </colgroup>
 <tbody>
